@@ -1,3 +1,1 @@
-# app-ads.txt para Dajer Games
-# Cuando tengas tu cuenta de AdMob, reemplaza esta línea por la que te da AdMob, por ejemplo:
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-5627017568266331, DIRECT, f08c47fec0942fa0
